@@ -1,0 +1,8 @@
+Bootcamp NTT DATA Diversidade em Tech
+Link: https://web.dio.me/track/38a27e68-67ae-444d-9110-1056e605237d
+
+Download do Git
+Link: https://git-scm.com/downloads
+
+Editor para arquivos Markdown
+Link: https://typora.io/
